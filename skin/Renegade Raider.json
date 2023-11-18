@@ -1,0 +1,20 @@
+{
+    "Name": "Blaze To Renegade Raider",
+    "Icon": "https://fortnite-api.com/images/cosmetics/br/CID_028_Athena_Commando_F/icon.png",
+    "Swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/icon.png",
+    "Message": null,
+    "Assets": [
+       {
+          "AssetPath": "/BRCosmetics/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderFire",
+          "AssetPathTo": "/Game/Athena/Heroes/Meshes/Bodies/CP_028_Athena_Body"
+       },
+       {
+          "AssetPath": "/BRCosmetics/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_RenegadeRaiderFire",
+          "AssetPathTo": "/Game/Athena/Heroes/Meshes/Heads/F_MED_ASN_Sarah_Head_02_ATH"
+       },
+       {
+          "AssetPath": "/BRCosmetics/Characters/CharacterParts/Hats/CP_Hat_F_Commando_RenegadeRaiderFire",
+          "AssetPathTo": "/Game/Characters/CharacterParts/Hats/Hat_F_Commando_08_V01"
+       }
+    ]
+ }
