@@ -1,0 +1,12 @@
+{
+    "Name": "Red Shield To Black Shield",
+    "Icon": "https://fortnite-api.com/images/cosmetics/br/BID_004_BlackKnight/icon.png",
+    "Swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_003_RedKnight/icon.png",
+    "Message": null,
+    "Assets": [
+       {
+          "AssetPath": "/Game/Characters/CharacterParts/Backpacks/Male_Commando_BlackKnight_V01",
+          "AssetPathTo": "/Game/Characters/CharacterParts/Backpacks/Male_Commando_BlackKnight"
+       }
+    ]
+ }
