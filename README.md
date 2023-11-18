@@ -1,4 +1,3 @@
-# Galaxy Swapper v2　plugin
-ギャラクシースワッパーのプラグイン
+##Galaxy Swapper v2
 
-#update
+##update
