@@ -1,0 +1,13 @@
+{
+    "Name": "Default Pickaxe to Merry Mint",
+    "Icon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_294_CandyCane/icon.png",
+    "Swapicon": "https://fortnite-api.com/images/cosmetics/br/DefaultPickaxe/icon.png",
+    "Message": null,
+    "Assets": [
+       {
+          "AssetPath": "/Game/Athena/Items/Weapons/WID_Harvest_Pickaxe_Athena_C_T01",
+          "AssetPathTo": "/Game/Athena/Items/Weapons/WID_Harvest_Pickaxe_CandyCane",
+          "Swaps": null
+       }
+    ]
+ }
