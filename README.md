@@ -1,3 +1,1 @@
-##Galaxy Swapper v2
-
-##update
+#Galaxy Swapper v2
