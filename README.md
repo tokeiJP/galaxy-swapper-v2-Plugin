@@ -1,1 +1,1 @@
-# galaxy-swapper-v2-plugin
+# Galaxy Swapper v2
